@@ -1,0 +1,4 @@
+interface:
+  display_name: "课堂转写整理"
+  short_description: "将杂乱课堂转写清洗并整理为结构化 Markdown 知识笔记"
+  default_prompt: "使用 $organize-lecture-transcript 将这份课堂转写整理成忠于原文、便于复习的 Markdown 知识笔记。"
