@@ -25,7 +25,7 @@ ChatGPT 会使用当前账号可用的 GPT 模型，不会调用 DeepSeek，也�
 ```text
 请读取下面公开 GitHub 仓库中的 organize-lecture-transcript Agent Skill，
 保持原有目录结构和规则，为我创建并提示安装这个 Skill：
-https://github.com/<owner>/<repository>
+https://github.com/Dehydration630/organize-lecture-transcript
 ```
 
 这不是官方保证的一键安装入口。如果 ChatGPT 无法读取仓库或没有出现安装提示，请使用上面的压缩包上传方式。
@@ -105,4 +105,4 @@ organize-lecture-transcript/
 
 ## 发布提醒
 
-仓库地址确定后，将本文中的 `https://github.com/<owner>/<repository>` 替换为真实地址。公开发布前还应由仓库所有者选择并添加合适的开源许可证；在未添加许可证时，默认保留全部权利。
+仓库地址确定后，将本文中的 `https://github.com/Dehydration630/organize-lecture-transcript` 替换为真实地址。公开发布前还应由仓库所有者选择并添加合适的开源许可证；在未添加许可证时，默认保留全部权利。
